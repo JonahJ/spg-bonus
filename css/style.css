@@ -38,7 +38,7 @@ body {
     top: 20px;
 
     z-index: 9999;
-    width: 200px;
+    width: 20vw;
     animation-name: spin;
     animation-duration: 4000ms;
     animation-iteration-count: infinite;
@@ -59,68 +59,6 @@ body {
         margin-top: 100%;
 }
 #signup {
-    background-color:
-rgb(0, 38, 99)
-;
-color:
-rgb(255, 255, 255)
-;
-cursor:
-pointer
-;
-display:
-block
-;
-float:
-left
-;
-font-family:
-Arial
-;
-font-size:
-13px
-;
-font-weight:
-bold
-;
-height:
-36px
-;
-line-height:
-36px
-;
-margin-bottom:
-0px
-;
-margin-left:
-0px
-;
-margin-right:
-0px
-;
-margin-top:
-0px
-;
-padding-bottom:
-0px
-;
-padding-left:
-0px
-;
-padding-right:
-0px
-;
-padding-top:
-0px
-;
-text-align:
-center
-;
-width:
-67.1719px
-;
-word-wrap:
-break-word
-;
+
 }
 
